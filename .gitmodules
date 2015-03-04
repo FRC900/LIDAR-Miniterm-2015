@@ -1,0 +1,3 @@
+[submodule "900/Team900-VIs"]
+	path = 900/Team900-VIs
+	url = git@github.com:FRC900/Team900-VIs.git
